@@ -1,3 +1,2 @@
-# Project File
-
-This is my project file
+# delta_demo
+This the demo for git class
